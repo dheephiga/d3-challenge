@@ -25,4 +25,4 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: super-five:latest
+                  tags: ghcr.io/${{ github.repository }}-super-five:latest
