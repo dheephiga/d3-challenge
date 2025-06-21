@@ -32,4 +32,4 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: ghcr.io/${{ github.repository }}-super-five:latest
+                  tags: ghcr.io/vishal-ananth-d3-challenge-super-five:latest
